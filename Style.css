@@ -1,0 +1,353 @@
+.Container-1{
+    height: 600px;
+    width: 1300px;
+    background-color: #F7F7F7;
+}   
+#tasks-list{
+    height:80px;
+    width: 1345px;
+    background-color:#FFFFFF;   
+    }
+.flex-container{
+    display: flex;
+    width: 70%;
+    height:70%;
+    background-color:#F7F7F7;
+    flex-wrap: wrap;
+}
+.box1{
+     width: 200px;
+     height: 200px;
+     background-color: #FFFFFF;
+     margin: 30px;
+    }
+#tick-image{
+    width: 10px;
+    height: 10px;
+    margin-right: 160px;
+   
+}
+#visit-church{
+    width: 80px;
+    height: 10px;
+    position: absolute;
+    top:170px;
+    left: 280px;
+}
+#shopping{
+     
+    height: 18px;
+    width: 70px;
+    position: absolute;
+    top:193px;
+    left:278px;
+}
+.shopping-box{
+    background-color:#F7F7F7;
+    height: 20PX;
+    width: 20PX;
+    border-radius: 4px;
+    position: absolute;
+    top:210px;
+    left:246px;
+    
+}
+.buy-vegetarian-box{
+    background-color:#F7F7F7;
+    height: 20px;
+    width: 20px;
+    border-radius: 4px;
+    position: absolute;
+    top:210px;
+    left:506px;
+}
+.sleep-at-10-pm-box{
+    background-color:#F7F7F7;
+    height: 20px;
+    width: 20px;
+    border-radius: 4px;
+    position: absolute;
+    top:480px;
+    left:246px;
+    
+}
+.avengers-endgame{
+    background-color:#F7F7F7;
+    height: 20px;
+    width: 20px;
+    border-radius: 4px;
+    position: absolute;
+    top:212px;
+    left:766px;
+}
+.Alchemist-box{
+    background-color:#F7F7F7;
+    height: 20px;
+    width: 20px;
+    border-radius: 4px;
+    position: absolute;
+    top:480px;
+    left:505px;
+}
+#visit-supermarket{
+    width: 190px;
+    height: 10px;
+    position: absolute;
+    top:170px;
+    left: 510px;
+    
+}
+#stranger-things-4{
+    
+    width: 190px;
+    height: 10px;
+    position: absolute;
+    top:170px;
+    left: 761px;
+
+}
+#Wake-up-at-6-AM{
+  
+    width: 190px;
+    height: 10px;
+    position: absolute;
+    top:430px;
+    left: 238px;
+
+}
+#Sleep-at-10-PM{
+    
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: -6px;
+}
+#Design-of-Everyday{
+    position: relative;
+    bottom:33px;
+}
+#Alchemist{
+    
+    position: relative;
+    bottom:50px;
+    left: -28px;
+}
+#trip-to-paris-link{
+   color: gray;
+   text-decoration: none;
+    
+}
+#add-new-task{
+    
+    color:#000000;
+    text-decoration: none;
+    text-align: end;
+}
+#Buy-vegetrian{
+    
+    height: 20px;
+    width: 110px;
+    position: absolute;
+    top: 210px;
+    left: 547px;
+}
+
+#Avengers-Endgame{
+  
+    width: 220px;
+    height: 20px;
+    position: absolute;
+    top: 210px;
+    left: 752px;
+}  
+#add-new-task{
+    
+    height:30px;
+    width:140px;
+    position: absolute;
+    top:60px;
+    right:73px;
+    text-decoration: none;
+    
+}
+#plus{
+    position: absolute;
+    top: 60px;
+    left: 510px;
+    height: 21px;
+    width: 21px;
+    border-radius: 50%;
+    
+}
+.pop-up-container-1{
+    position: absolute;
+    height:200px;
+    width:600px;
+    background-color:white;
+    border: 1px solid gray;
+    border-radius: 8px ;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.pop-up-contaniner-2{
+    position: absolute;
+    
+    height: 50px;
+    width: 600px;
+    /* background-color: white; */
+    color:black;
+}
+#btn{
+    
+    height: 50px; 
+    width: 150px;
+    position: absolute;
+    right:10px;
+    top:140px;
+    background-color: blue;
+    color: white;
+    
+}
+#xmark{
+    position: absolute;
+    top: 20px;
+    right:10px;
+    font-size:30px;
+    
+}
+#arrow-image{
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      top: 70%;
+      left: 90%;
+
+
+    }
+.main{
+    /* background-color: yellow; */
+    height: 200px;
+    width: 600px;
+ 
+    position: absolute;
+    top:100px;
+    left:   0px
+} 
+#blur{
+    filter: blur(5px);
+    
+}
+.container-window-1{
+    background-color:white;
+    height: 80px;
+    width: 800px;
+    margin-left: 50%;
+    border: 1px solid gray;
+}
+
+.container-window-2{
+    background-color:gray;
+    height: 400px;
+    width: 800px;
+    margin-left: 50%;
+    margin-top: -3%;
+    border: 1px solid gray;
+    
+}
+
+.Task-List-heading{
+    margin-top: 2%;
+    margin-right: 80%;
+}   
+.trip-to-paris{
+    height:200px;
+    background-color: #ffffff; 
+    width: 400px;
+    margin-top: 12%;
+}
+.visit-church-box-1{
+    background-color:gray;
+    height: 20PX;
+    width: 20PX;
+    border-radius: 4px;
+    margin-top: 0%;
+    margin-left: -80%;
+    }
+#tick-image-window-page{
+height: 20px;
+width: 20px;
+position: absolute;
+left: 88.6%;
+/* top: 0%; */
+}
+.text-add-new-task{
+    /* margin: 0%; */
+    margin-top: -9%;
+    margin-left:40%;
+    width: 100px;
+    text-decoration: none;
+}
+#plus-1{
+    height: 21px;
+    width: 21px;
+    position: absolute;
+    top: 62%;
+    left: 118%;
+}
+
+.main-add-new-item{
+    /* background-color: #000000; */
+    position: absolute;
+    left: 35%;
+    height: 200px;
+    width: 350px;
+    margin: 0%;
+    margin-top:20%;
+    margin-left: 3%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 2px solid black;
+}
+.container-1-add-new-item
+{
+    background-color:white;
+    height: 50px;
+    width: 100;
+    border-radius: 1px solid gray ;
+}
+.xmark1{
+    
+    /* background-color: #000000; */
+    height: 20px;
+    width: 40px;
+    position: absolute;
+    top: -48px;
+    left: 70px;
+    font-size: larger;
+
+}
+.container-2-add-new-item{
+    position: absolute;
+    top: 30%;
+    left: 55%;
+
+}
+#input-1-add-new-task
+{
+    height: 30px;
+    width: 250px;
+}
+#btn-2-add-new-task{
+    height: 40px;
+    width: 150px;
+    background-color: #00A5EC;
+    margin-left: 50%;
+    /* background: url("file:///D:/minevelve/PrepBytes/Project/CSS%20project/Todo/Index.html"); */
+}
+
+.main-blur-3{
+    filter: blur(5px);
+
+}
